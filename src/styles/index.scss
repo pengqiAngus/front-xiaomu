@@ -1,0 +1,11 @@
+// 导入 tailwind 的基础指令组件
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.driver-fix-stacking{
+	position: relative;
+}
+.driver-btn-group{
+	line-height: 0;
+}
